@@ -1,0 +1,8 @@
+= Marinov Coupled Shutters Experiment
+:nofooter:
+
+link:./coupled_shutters.pdf[Original article (pdf)]
+
+link:./en.html[Original article (html)]
+
+link:./ru.html[Original article in russian (html)]
