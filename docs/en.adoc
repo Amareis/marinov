@@ -102,14 +102,16 @@ stall in a small village near Graz, I carried out the experiment
 in the apartment of my girl-friend. The sensitivity which I
 obtained with Sun’s light (a perfect source of homogeneous
 parallel light) was good, but there were two inconveniences:
-(1) The motion of the Sun is considerable during the time
+
+1. The motion of the Sun is considerable during the time
 when one makes the reversal of the axle and one cannot be
 sure whether the observed effect is due to the delay times of
-the light pulses or to the Sun’s motion; (2) One can perform
-measurements only for a couple of hours about noon and
+the light pulses or to the Sun’s motion;
+2. One can perform measurements only for a couple of hours about noon and
 thus there is no possibility to obtain a 24-hour “sinusoid”
-(explanation of the measuring procedure follows). On the
-other hand, at fast rotation of the axle the holed rotating
+(explanation of the measuring procedure follows).
+
+On the other hand, at fast rotation of the axle the holed rotating
 disks became two sirens, so that when my apparatus began to
 whistle the neighbors knocked on the door, asking in dismay:
 “Fliegt schon der Russe uber Wien?” (Is Ivan already flying
