@@ -231,7 +231,9 @@ center where the beam is “cut” by the holes’ rims. The _real_
 current stem:[I] which one measures is proportional to a certain
 _middle_ illumination across the whole light beam, while the
 _real_ current stem:[ΔI] is proportional to the _maximum_ illumination
-at the centre of the light beam. On the other hand, one must
+at the centre of the light beam.
+
+On the other hand, one must
 take into account that when the holes let the light beam fall
 on the photocell, first light comes from the peripheral parts
 and at the end from the central parts. When half of the beam
@@ -242,7 +244,9 @@ holes’ rims begin to extinguish first the central parts of the
 beam and at the end the peripheral parts. Here, for simplicity,
 I suppose that the cross-sections of the beams and of the
 holes are the same (in reality the former were smaller than
-the latter). Thus during the first one-third of the time of
+the latter).
+
+Thus during the first one-third of the time of
 illumination the “left” half of the light beam appears, during
 the second one-third of the time of illumination the “left”
 half goes over to the “right” half, and during the last
@@ -327,8 +331,9 @@ stem:[2ΔI = 105] μA). I evaluated a breadth of the light spot
 stem:[b = 4.3±0.9] mm and thus I obtained stem:[c = (3.0±0.6)×10^8] m/sec,
 where error is taken as only the error in the estimation of stem:[b],
 because the “weights” of the errors introduced by the measurement
-of stem:[d, R, ΔN, I, ΔI] were much smaller. I repeat,
-the breadth stem:[b] cannot be measured exactly as the peripheries
+of stem:[d, R, ΔN, I, ΔI] were much smaller.
+
+I repeat, the breadth stem:[b] cannot be measured exactly as the peripheries
 of the light spot are not sharp. As a matter of fact, I chose
 such a breadth in the possible uncertainty range of stem:[±1] mm,
 so that the exact value of stem:[c] to be obtained. I wish once more
@@ -337,6 +342,7 @@ built on the assumption of rectangular holes and light beams
 cross-sections and linear increase of the illumination from
 the periphery to the center. These simplified assumptions
 do not correspond to the more complicated real situation.
+
 Let me state clearly: The “coupled shutters” experiment is
 not to be used for an _exact_ measurement of stem:[c]. It is, however,
 to be used for sufficiently accurate measurement of the
@@ -383,20 +389,22 @@ a certain residual current stem:[I']. The current change stem:[ΔI_1] will be
 equal to the current change stem:[ΔI_2] only if the experiment is
 _entirely symmetric_. But it is difficult to achieve a complete
 symmetry (and, of course, I could not achieve it in my
-experiment). There are the following disturbances: On the
-one hand, the distribution of the light intensities in the
+experiment). There are the following disturbances:
+
+- On the one hand, the distribution of the light intensities in the
 crosssections of both beams and the forms of the beams are not
 exactly the same; thus the covering of the same geometrical
 parts of both beams when changing the rotation of the axle
 does not lead to equal changes in the light intensities of
-both beams and, consequently, to stem:[ΔI_1 = ΔI_2]. On the other
-hand, although the photocells were taken from a unique
+both beams and, consequently, to stem:[ΔI_1 = ΔI_2].
+- On the other hand, although the photocells were taken from a unique
 Sun collector cut in two pieces, even if the changes in the
 illuminations should be equal, the produced currents may
 become different (the current gain at the different points
 of the photocells is not the same, the internal resistances
-of the cells are not equal, etc. etc.). Thus after changing
-the rotational rate from clockwise to counter-clockwise, I
+of the cells are not equal, etc. etc.).
+
+Thus after changing the rotational rate from clockwise to counter-clockwise, I
 measured certain current stem:[I''], but stem:[I'' − I'] was not equal to
 stem:[2δI], as it _must be_ for an entirely symmetric setup. However,
 measuring the difference stem:[I'' − I'] during different hours of
