@@ -255,7 +255,8 @@ measured one_, by the following connection
 .(4)
 ++++
 I = 1/2 int_0^1 I_(hom) x ( 2/3 − x/3 ) dx =
-I_(hom)/6 (x^2 − x^3 / 3) |_0^1
+
+= I_(hom)/6 (x^2 − x^3 / 3) |_0^1
 = I_(hom) / 9 .
 ++++
 
@@ -345,15 +346,20 @@ place the set-up on a rotating platform). The reader will see
 this now.
 
 == 4. Measurement of stem:[v]
-The _measurement_ of stem:[c] is an absolute, while the measurement
+The measurement of stem:[c] is an _absolute_, while the measurement
 of stem:[v] is a _relative_, taking the velocity of light stem:[c] as known.
 According to formula <<f7>> one has to measure only two difference currents:
 stem:[2ΔI] (at “escaping” and “entering” far holes)
 and stem:[2δI] (at “escaping” or “entering” far holes).
 The measurement in the air of the laboratory had two important inconveniences:
-(1) Dust in the air led to very big fluctuations in the measured current differences and I had to use a big condenser in parallel with the galvanometer’s entrance, making the apparatus very sluggish;
-(2) The shrill of the holed disks at high rotational rate could lead to the same gloomy result as
-when executing the experiment in the apartment of my girlfriend. Thus I covered the whole set-up with a metal cover
+
+1. Dust in the air led to very big fluctuations in the measured current differences
+and I had to use a big condenser in parallel with the galvanometer’s entrance,
+making the apparatus very sluggish;
+2. The shrill of the holed disks at high rotational rate could lead to the same gloomy result as
+when executing the experiment in the apartment of my girlfriend.
+
+Thus I covered the whole set-up with a metal cover
 and evacuated the air by using an oil pump (this amelioration
 cost an additional 9,000 Shilling, i.e. USD 700). The performance of the experiment in vacuum has also the advantage that those people who wish to save at any price the false
 dogma of the constancy of the velocity of light, cannot raise
