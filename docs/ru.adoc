@@ -353,6 +353,8 @@ where the local time is the same as the standard time stem:[t_(st)] of
 registration, taking into account that the sidereal time at a
 middle midnight is as follows:
 
+[.scrollable]
+--
 [cols="1,1",frame=none,grid=none]
 |===
 
@@ -375,6 +377,7 @@ middle midnight is as follows:
 | 21 February — stem:[10^h]
 | 22 August — stem:[22^h]
 |===
+--
 
 The graph in <<fig-2,Figure 2>> shows that on the 11th February
 (the middle day of observation) I registered in Graz
@@ -421,6 +424,8 @@ local sidereal time of the zonal meridian. Instead of doing
 this, I _wrongly_ added. Thus the numbers given by me are to
 be corrected as follows:
 
+[.scrollable]
+--
 [cols="1,1*>,1*>",frame=none,grid=none]
 |===
 | Observation: | Wrongly calculated: | To be corrected to:
@@ -436,6 +441,7 @@ be corrected as follows:
 |stem:[α=14^h 17^m]
 |stem:[α=13^h 23^m]
 |===
+--
 
 I beg the persons who will refer to the measurement of
 the Sun’s absolute velocity determined by me in 1975/76

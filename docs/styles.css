@@ -441,5 +441,10 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 
 .stemblock > .content {
     flex: 1;
-    overflow: auto;
+    overflow-x: auto;
+    margin: 0 8px;
+}
+
+.scrollable {
+    overflow-x: auto;
 }
