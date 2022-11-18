@@ -242,7 +242,7 @@ errors, I took ±30 km/sec as the uncertainty error in the
 measurement of stem:[v].
 
 [#fig-2]
-.Measurement of stem:[2δI]. The points give the measurements at the even hours for the days from the 9th to the 13th February 1984.
+.Измерения stem:[2δI]. Точки — измерения в четные часы для дней с 9 по 13 февраля 1984 года.
 image::img/2.png[]
 
 When stem:[2δI] has maximum or minimum the Earth’s absolute
@@ -267,7 +267,7 @@ case the «variation curve» no longer has the character of a
 must be drawn tangentially to the lowest minimum.
 
 [#fig-3,align="center"]
-.The Earth and its absolute velocity at the two moments when the laboratory meridian lies in the velocity’s plane
+.Земля и ее абсолютная скорость в два момента, когда лабораторный меридиан лежит в плоскости скорости
 image::img/3.png[]
 
 As can be seen from <<fig-3,Fig. 3>>, the two components of
@@ -307,24 +307,23 @@ middle midnight is as follows:
 [cols="1,1",frame=none,grid=none]
 |===
 
-| 22 September — stem:[0^h]
-| 23 March — stem:[12^h]
+| 22 сентября — stem:[0^h]
+| 23 марта — stem:[12^h]
 
-| 22 October — stem:[2^h]
-| 23 April — stem:[14^h]
-| 23 April — stem:[14^h]
+| 22 октября — stem:[2^h]
+| 23 апреля — stem:[14^h]
 
-| 22 November — stem:[4^h]
-| 23 May — stem:[16^h]
+| 22 ноября — stem:[4^h]
+| 23 мая — stem:[16^h]
 
-| 22 December — stem:[6^h]
-| 22 June — stem:[18^h]
+| 22 декабря — stem:[6^h]
+| 22 июня — stem:[18^h]
 
-| 21 January — stem:[8^h]
-| 23 July — stem:[20^h]
+| 21 января — stem:[8^h]
+| 23 июля — stem:[20^h]
 
-| 21 February — stem:[10^h]
-| 22 August — stem:[22^h]
+| 21 февраля — stem:[10^h]
+| 22 августа — stem:[22^h]
 |===
 --
 
@@ -377,16 +376,16 @@ be corrected as follows:
 --
 [cols="1,1*>,1*>",frame=none,grid=none]
 |===
-| Observation: | Wrongly calculated: | To be corrected to:
-| 12 July 1975
+| Наблюдение: | Неверно вычислено: | Исправлется на:
+| 12 июля 1975
 | stem:[(t_(si))_a=14^h 23^m]
 | stem:[(t_(si))_a=13^h 30^m]
 
-|11 January 1976
+|11 января 1976
 |stem:[(t_(si))_a=14^h 11^m]
 |stem:[(t_(si))_a=13^h 17^m]
 
-|Right ascension of the apex of the Sun’s absolute velocity
+|Прямое восхождение направления абсолютной скорости Солнца
 |stem:[α=14^h 17^m]
 |stem:[α=13^h 23^m]
 |===
@@ -398,7 +397,7 @@ to cite _always_ the corrected figures given here and not the
 wrongly calculated figures presented in {fn-2}{fn-6}{fn-8}{fn-9}{fn-10}{fn-11}
 and in some others of my papers.
 
-== 5. Conclusions
+== 5. Выводы
 
 Comparing the figures obtained now by the Graz variation of
 my «coupled shutters» experiment with the figures obtained
@@ -438,8 +437,8 @@ to accept my measurements for so many years and nobody
 tries to repeat them, the answer can be found in the following
 words of one of my _best physical and moral teachers_:
 
-[quote,Albert Einstein]
-*Terrible is the power which an authority exerts over the world.*
+[quote,Альберт Эйнштейн]
+*Ужасна власть, которую правящие имеют над миром.*
 
 I wish to add in closing that with a letter of the 29 December 1983 I informed the Nobel committee that I am ready
 at any time to bring (for my account) the «coupled shutters»
@@ -449,5 +448,5 @@ of the Earth’s absolute motion. With a letter of 28 January
 me that my letter had been received.
 
 [#fig-4,align="center"]
-.February 1984. Explaining the essence of the «coupled shutters» experiment. My fingers show the ways in which both light beams go from the one perforated disk to the other. One can see on the photograph only a small part of the laser producing the initial light beam which is split by the semitransparent mirror seen in the photograph. The reflected beam goes to the left, while the refracted beam, after a reflection on the mirror seen in the photograph, goes to the right. Between the perforated disks, these two beams proceed in the opposite directions. The person who gave me a possibility to carry out my «coupled shutters» experiment in his laboratory took from me the solemn promise that I shall never say where have I carried it out. To my question, why is he so afraid, the answer was: «I do not wish one day to be poisoned by certain special services.»
+.Февраль 1984 г. Объяснение сути эксперимента «связанные затворы». Мои пальцы показывают пути, по которым оба световых луча идут от одного перфорированного диска к другому. На фотографии видна лишь небольшая часть лазера, создающего начальный световой луч, который расщепляется видимым на фотографии полупрозрачным зеркалом. Отраженный луч идет влево, а преломленный луч, после отражения от видимого на фотографии зеркала, идет вправо. Между перфорированными дисками эти два луча проходят в противоположных направлениях. Человек, предоставивший мне возможность провести в своей лаборатории мой эксперимент «связанные затворы», взял с меня торжественное обещание никогда не говорить, где я его проводил. На мой вопрос, почему он так боится, ответ был: «Я не хочу, чтобы однажды меня отравили некие спецслужбы».
 image::img/4.png[]

@@ -498,7 +498,6 @@ middle midnight is as follows:
 
 | 22 October — stem:[2^h]
 | 23 April — stem:[14^h]
-| 23 April — stem:[14^h]
 
 | 22 November — stem:[4^h]
 | 23 May — stem:[16^h]
