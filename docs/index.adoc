@@ -1,8 +1,14 @@
-= Marinov Coupled Shutters Experiment
+= Marinov Absolute Velocity Experiments
 :nofooter:
+
+== Coupled Shutters Experiment
 
 link:./coupled_shutters.pdf[Original article (pdf)]
 
 link:./en.html[Original article (html)]
 
 link:./ru.html[Original article in russian (html)]
+
+== Coupled Mirrors Experiment
+
+link:./coupled_mirrors.pdf[Original article (pdf)]
