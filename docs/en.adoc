@@ -379,6 +379,7 @@ is _huge_. Moreover all existing physical schools cannot raise
 objections against the theory presented above. However, the
 measurement of stem:[δI] which is with three orders lower than
 stem:[ΔI] has certain peculiarities which must be well understood.
+
 When changing the rotation from clockwise to counterclockwise, the current produced by the one photocell changes,
 say, from stem:[I_1] to stem:[I_1 + ΔI_1 + δI_1] and of the other photocell
 from, say, stem:[I_2] to stem:[I_2 + ΔI_2 − δI_2]. One makes stem:[I_1] to be equal
@@ -547,7 +548,9 @@ where the errors are calculated supposing stem:[φ = 45^@].
 
 The local sidereal time for the observation of stem:[v_a] (i.e., the
 right ascension of the absolute velocity’s apex)
-was calculated in the following manner: As for any day the sidereal
+was calculated in the following manner:
+
+As for any day the sidereal
 time increases by stem:[4^m] (with respect to the solar time),
 the sidereal time at midnight on the 11th February (which follows
 21 days after midnight on the 21 January) was stem:[8^h+1^h 24^m = 9^h 24^m].

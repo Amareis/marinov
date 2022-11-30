@@ -41,7 +41,7 @@
 [quote]
 Сожалею, но я не могу изменить свою рекомендацию относительно работ д-ра Маринова. Пытаясь обосновать достоверность своей экспериментальной работы, д-р Маринов выделяет моменты, которые вызывают множество беспокойства у остального сообщества. Он заявляет: «Если я в подержанной мастерской за две недели за 500 долларов добился необходимой точности, то, полагаю, и JILA сможет её достичь». Я не знаю никого в сообществе точных измерений, кто полагал бы, что измерения качества, заявленные д-ром Мариновым, могут быть осуществлены в таких условиях и в столь короткое время. Чтобы изменить направление физики, потребуется гораздо больше. Я подозреваю, что даже ученые, работающие в самых авторитетных лабораториях США или мира, столкнутся с сильным противодействием, пытаясь опубликовать столь революционные результаты, о которых заявил д-р Маринов.
 
-В этой статье я представляю отчет об измерении абсолютной скорости лаборатории, выполненном мной в Граце с помощью новой конфигурации моего эксперимента «связанные затворы». Теперь установка была построен не за семь дней, а за четыре. Поскольку работа была «в черную» (механик в университетской мастерской делал ее в нерабочее время, и я платил ему «на руки»), установка была построена преимущественно за выходные и стоила 12 000 шиллингов (1000 долларов США). Приводной двигатель был взят от старой стиральной машины и ничего не стоил.
+В этой статье я представляю отчет об измерении абсолютной скорости лаборатории, выполненном мной в Граце с помощью новой конфигурации моего эксперимента «связанные затворы». Теперь установка была построена не за семь дней, а за четыре. Поскольку мы работали «в черную» (механик в университетской мастерской делал ее в нерабочее время, и я платил ему «на руки»), установка была построена преимущественно на выходных и стоила 12 000 шиллингов (1000 долларов США). Приводной двигатель был взят от старой стиральной машины и ничего не стоил.
 
 Поскольку ни одна научная лаборатория не проявляла гостеприимства и не давала мне возможности использовать лазерный источник и лабораторные зеркала, моим первым намерением было использовать в качестве источника света Солнце. Зарабатывая себе на хлеб и деньги на продолжение научных исследований, работая конюхом и ночуя в стойле в маленькой деревушке под Грацем, я провел эксперимент на квартире у своей подруги. Чувствительность, которую я получил при солнечном свете (идеальный источник однородного параллельного света), была хорошей, но было два неудобства:
 
@@ -61,7 +61,7 @@
 == 2. Теория эксперимента со «связанными затворами»
 
 [#fig-1]
-.Грацский эксперимент со «связанными затворами» во время предварительных измерений с воздухом; при проведении измерений в вакууме лазер устанавливался параллельно оси, а регулятор скорости мотора (видимый между мотором и дальним диском) выносился за пределы  пространства с вакуумом. В левом углу основания установки видно гнездо для одного из отражающих зеркал на тот случай, если необходимо использовать солнечный свет (гнездо другого отражающего зеркала находится в дальнем правом углу). Механик потратил много времени (а я потерял деньги) на изготовление неиспользуемых в лазерной установке *регулируемых* отражающих зеркал для солнечного света, так что цена реальной уставновки должна быть меньше раза в два.
+.Грацкий эксперимент со «связанными затворами» во время предварительных измерений с воздухом; при проведении измерений в вакууме лазер устанавливался параллельно оси, а регулятор скорости мотора (видимый между мотором и дальним диском) выносился за пределы  пространства с вакуумом. В левом углу основания установки видно гнездо для одного из отражающих зеркал на тот случай, если необходимо использовать солнечный свет (гнездо другого отражающего зеркала находится в дальнем правом углу). Механик потратил много времени (а я потерял деньги) на изготовление неиспользуемых в лазерной установке *регулируемых* отражающих зеркал для солнечного света, так что цена реальной уставновки должна быть меньше раза в два.
 image::img/1.png[]
 
 Вращающаяся ось приводится в движение электродвигателем, расположенным точно посередине оси. Ось имеет на концах два диска с отверстиями. Расстояние от центров отверстий до центра оси равно stem:[R], а расстояние между дисками равно stem:[d]. Свет от лазера разделяется полупрозрачной призмой и два луча направляются парой регулируемых зеркал к противоположным концам вращающейся оси, после чего лучи проходят через отверстия дисков во взаимно противоположных направлениях. Любой из лучей после «нарезания» ближним диском и «подрезки» дальним диском освещает фотоэлемент. С помощью гальванометра измеряется разница токов, генерируемых обоими фотоэлементами. При закрытии одной из ячеек измеряется ток, производимый другой ячейкой.
@@ -188,101 +188,37 @@ stem:[2ΔI] (при «уходящих» и «входящих» дальних 
 
 Так что я накрыл всю установку металлическим кожухом и откачал воздух с помощью масляного насоса (это улучшение стоило мне дополнительно 9000 шиллингов, то есть 700 долларов США). Проведение эксперимента в вакууме имеет ещё одно преимущество - те люди, которые хотят любой ценой сохранить ложную догму о постоянстве скорости света, не могут возразить, что наблюдаемый эффект обусловлен температурными возмущениями.
 
-The measurement of stem:[ΔI] is a simple problem as the effect
-is _huge_. Moreover all existing physical schools cannot raise
-objections against the theory presented above. However, the
-measurement of stem:[δI] which is with three orders lower than
-stem:[ΔI] has certain peculiarities which must be well understood.
-When changing the rotation from clockwise to counterclockwise,
-the current produced by the one photocell changes,
-say, from stem:[I_1] to stem:[I_1 + ΔI_1 + δI_1] and of the other photocell
-from, say, stem:[I_2] to stem:[I_2 + ΔI_2 − δI_2]. One makes stem:[I_1] to be equal
-to stem:[I_2], changing the light beam positions by manipulating the
-reflecting mirrors micrometrically. One can with difficulty
-obtain an exact compensation, so that the galvanometer shows
-a certain residual current stem:[I']. The current change stem:[ΔI_1] will be
-equal to the current change stem:[ΔI_2] only if the experiment is
-_entirely symmetric_. But it is difficult to achieve a complete
-symmetry (and, of course, I could not achieve it in my
-experiment). There are the following disturbances:
+Измерение stem:[ΔI] — простая задача, так как эффект _огромен_. Более того, все существующие физические школы не могут выдвинуть возражений против изложенной выше теории. Однако измерение stem:[δI], которое на три порядка ниже stem:[ΔI], имеет определенные особенности, которые необходимо хорошо понимать.
 
-- On the one hand, the distribution of the light intensities in the
-crosssections of both beams and the forms of the beams are not
-exactly the same; thus the covering of the same geometrical
-parts of both beams when changing the rotation of the axle
-does not lead to equal changes in the light intensities of
-both beams and, consequently, to stem:[ΔI_1 = ΔI_2].
-- On the other hand, although the photocells were taken from a unique
-Sun collector cut in two pieces, even if the changes in the
-illuminations should be equal, the produced currents may
-become different (the current gain at the different points
-of the photocells is not the same, the internal resistances
-of the cells are not equal, etc. etc.).
+При изменении направления вращения с правого на левое, ток, создаваемый одним фотоэлементом, изменяется, скажем, с stem:[I_1] на stem:[I_1 + ΔI_1 + δI_1] и другого фотоэлемента, скажем, с stem:[I_2] на stem:[I_2 + ΔI_2 − δI_2].
+Изменяя положение светового луча с помощью микрометрических зеркал, stem:[I_1] уравнивается с stem:[I_2]. Потрудившись, можно получить точную компенсацию, чтобы гальванометр показывал некоторый остаточный ток stem:[I'].
+Изменение тока stem:[ΔI_1] будет равно изменению тока stem:[ΔI_2], только если эксперимент _полностью симметричен_. Но добиться полной симметрии сложно (и, конечно, мне не удалось этого добиться в своем эксперименте). Этому мешает следующее:
 
-Thus after changing the rotational rate from clockwise to counter-clockwise, I
-measured certain current stem:[I''], but stem:[I'' − I'] was not equal to
-stem:[2δI], as it _must be_ for an entirely symmetric setup. However,
-measuring the difference stem:[I'' − I'] during different hours of
-the day, I established that it was «sinusoidally modulated».
-This «sinusoidal modulation» was due to the absolute velocity stem:[v].
-All critics of my «rotating axle» experiments vociferate
-mostly against the vibrations of the axle, asserting that these
-vibrations will mar the whole measurement. Meanwhile the
-axle caused me _absolutely no troubles_. When measuring in
-vacuum the axis of the apparatus pointed north/south.
+- С одной стороны, распределение интенсивности света в поперечном сечении лучей и форма лучей не совсем одинаковы; таким образом использование одной и той же геометрической области обоих лучей при изменении вращения оси не приводит к равным изменениям интенсивности света и, следовательно, к stem:[ΔI_1 = ΔI_2].
+- С другой стороны, хотя фотоэлементы и взяты из одной, разрезанной на две части, солнечной панели, даже если изменения освещенности будут равными, вырабатываемые токи могут отличаться (ток в разных точках фотоэлементов разный, внутреннее сопротивление ячеек отличается и т.д. и т.п.).
 
-I measured the «sinusoidal modulation» over 5 days,
-from the 9th to the 13th February 1984. As I did the experiment alone,
-I could not cover all 24 hours of every day.
-The results of the measurements are presented in <<fig-2,Fig. 2>>. The
-most sensible scale unit of the galvanometer was 10 nA and
-the fluctuations were never bigger than 20 nA. The daytime
-hours are on the abscissa and the current differences on the
-left ordinate. After plotting the registered values of stem:[I'' − I']
-and drawing the best fit curve, the «null line» (i.e., the
-abscissa) is drawn at such a «height» that the curve has
-to cut _equal_ parts of the abscissa (of any 12 hours). Then
-on the right ordinate the current stem:[2δI] is taken positive
-upwards from the null line and negative downwards. Since
-105 μA corresponds to a velocity 300,000 km/sec, 10 μA
-will correspond approximately to 30 km/sec. Considering
-the fluctuations of the galvanometer as a unique source of
-errors, I took ±30 km/sec as the uncertainty error in the
-measurement of stem:[v].
+Таким образом, после изменения вращения с правого на левое я измерил некоторый ток stem:[I''], но stem:[I'' − I'] не было равно stem:[2δI], как это _должно быть_ для полностью симметричной установки. Однако, измерив разность stem:[I'' − I'] в разное время суток, я установил, что она «синусоидально модулирована». Эта «синусоидальная модуляция» была обусловлена абсолютной скоростью stem:[v]. Все критики моих экспериментов с «вращающейся осью» в основном горланят про вибрации оси, утверждая, что они испортят все измерения. Между тем, ось не доставляла мне _абсолютно никаких проблем_. При измерении в вакууме ось установки указывала на север/юг.
+
+Я измерял «синусоидальную модуляцию» в течение 5 дней, с 9 по 13 февраля 1984 года. Поскольку я проводил эксперимент один, я не мог охватить все 24 часа каждого дня.
+Результаты измерений представлены на <<fig-2, рис. 2>>. Наиболее подходящей единицей измерения гальванометра было 10 нА, а колебания никогда не превышали 20 нА.
+По оси абсцисс отложено время суток, а по левой ординате - разница токов. После нанесения на график зарегистрированных значений stem:[I'' − I'] и построения наиболее подходящей кривой, «нулевая линия» (т. е. абсцисса) проводится на такой «высоте», что кривая должна разрезать абсциссу на _равные_ части (по 12 часов).
+Затем на правой ординате ток stem:[2δI] принимается положительным вверх от нулевой линии и отрицательным вниз. Поскольку 105 мкА соответствует скорости 300 000 км/сек, 10 мкА будет соответствовать примерно 30 км/сек.
+Считая колебания гальванометра единственным источником ошибок, я принял ±30 км/сек в качестве ошибки измерения stem:[v].
 
 [#fig-2]
 .Измерения stem:[2δI]. Точки — измерения в четные часы для дней с 9 по 13 февраля 1984 года.
 image::img/2.png[]
 
-When stem:[2δI] has maximum or minimum the Earth’s absolute
-velocity lies in the plane of the laboratory’s meridian
-<<fig-3,(Fig. 3)>>. The velocity components pointing to the north are
-taken positive and those pointing to the south negative. I
-always denote by stem:[v_a] the component whose algebraic value
-is smaller. When both light beams pass through «escaping»
-holes, then, in the case that the absolute velocity component
-points to the north, the «north» photocell produces less
-current than the «south» photocell (with respect to the case
-when the absolute velocity component is perpendicular to
-the axis of the apparatus), while in the case that the absolute
-velocity component points to the south, the «north» photocell
-produces more current. If the light beams pass through «entering»
-holes, all is vice versa. Let me note that for the case
-shown in <<fig-3,Fig. 3>> (which does not correspond to the real situation,
-as in reality stem:[v_a] is negative) both velocity components
-point to the north and both stem:[v_a] and stem:[v_b] are positive. In this
-case the «variation curve» no longer has the character of a
-«sinusoid»; it has 4 extrema (for 24 hours) and the «null line»
-must be drawn tangentially to the lowest minimum.
+При максимальном или минимальном значении stem:[2δI] абсолютная скорость Земли лежит в плоскости меридиана лаборатории <<fig-3,(рис. 3)>>. Компоненты скорости, указывающие на север, считаются положительными, а направленные на юг — отрицательными.
+Я всегда обозначаю stem:[v_a] компонент, алгебраическое значение которого меньше. Когда оба световых луча проходят через «уходящие» отверстия, то в случае, когда абсолютная составляющая скорости направлена на север, «северный» фотоэлемент дает меньший ток, чем «южный» фотоэлемент (относительно случая, когда абсолютная составляющая скорости компонента перпендикулярна оси установки), а в случае, когда абсолютная составляющая скорости направлена на юг, «северный» фотоэлемент дает больший ток.
+Если световые лучи проходят через «входящие» отверстия, то все наоборот. Замечу, что для случая, показанного на <<fig-3, рис. 3>> (что не соответствует реальной ситуации, так как на самом деле stem:[v_a] отрицательна) обе компоненты скорости указывают на север, и обе stem:[v_a] и stem:[v_b] положительны.
+В этом случае «кривая изменений» уже не имеет характера «синусоиды»; она имеет 4 экстремума (за 24 часа) и «нулевую линию» нужно провести по касательной к самому нижнему минимуму.
 
 [#fig-3,align="center"]
 .Земля и ее абсолютная скорость в два момента, когда лабораторный меридиан лежит в плоскости скорости
 image::img/3.png[]
 
-As can be seen from <<fig-3,Fig. 3>>, the two components of
-the Earth’s absolute velocity in the horizontal plane of the
-laboratory, stem:[v_a] and stem:[v_b], are connected with the magnitude stem:[v]
-of the absolute velocity by the following relations
+Как видно из <<fig-3, рис. 3>>, две составляющие абсолютной скорости Земли в горизонтальной плоскости лаборатории, stem:[v_a] и stem:[v_b], связаны с величиной stem:[v] абсолютной скорости следующими соотношениями
 [stem#f8]
 .(8)
 ++++
@@ -291,7 +227,7 @@ v_a = v sin (δ − φ),
 v_b = v sin (δ + φ),
 ++++
 
-where stem:[φ] is the latitude of the laboratory and stem:[δ] is the declination of the velocity’s apex. From these one obtains
+где stem:[φ] — широта лаборатории, а stem:[δ] — склонение апекса скорости. Из них получаем
 
 [stem#f9]
 .(9)
@@ -301,15 +237,8 @@ v = ({v_a^2 + v_b^2 − 2v_av_b (cos^2φ − sin^2φ)}^(1/2)) / (2 sin φ cos φ
 tan δ = (v_b + v_a) / (v_b − v_a) tan φ .
 ++++
 
-Obviously the apex of stem:[v] points to the meridian of stem:[v_a].
-Thus the right ascension stem:[α] of the apex equaled the local
-sidereal time of registration of stem:[v_a]. From <<fig-2,Fig. 2>> it is to be
-seen that this moment can be determined with an accuracy
-of stem:[±1^h]. Thus it was enough to calculate (with an inaccuracy
-not larger than stem:[±5] min) the sidereal time stem:[t_(si)] for the meridian
-where the local time is the same as the standard time stem:[t_(st)] of
-registration, taking into account that the sidereal time at a
-middle midnight is as follows:
+Очевидно, что апекс stem:[v] указывает на меридиан stem:[v_a]. Таким образом, прямое восхождение stem:[α] апекса равняется местному звездному времени регистрации stem:[v_a].
+Из <<fig-2, рис. 2>> видно, что этот момент может быть определен с точностью stem:[±1^h]. Таким образом, было достаточно вычислить (с погрешностью не более stem:[±5] мин) звездное время stem:[t_(si)] для меридиана, где местное время совпадает со стандартным временем stem:[t_ (st)] регистрации, принимая во внимание, что звездное время в полночь выглядит следующим образом:
 
 [.scrollable]
 --
@@ -336,11 +265,7 @@ middle midnight is as follows:
 |===
 --
 
-The graph in <<fig-2,Figure 2>> shows that on the 11th February
-(the middle day of observation) I registered in Graz
-stem:[(φ = 47^@, δ = 15^@ 260')] the following components of the absolute
-velocity at the following hours (for stem:[2 (δI)_a = −120]nA, and
-stem:[2 (δI)_b =50]nA)
+График на <<fig-2, рис. 2>> показывает, что 11 февраля (посередине наблюдений) я зарегистрировал в Граце stem:[(φ = 47^@, δ = 15^@ 260')] следующие компоненты абсолютной скорости в следующие часы (для stem:[2 (δI)_a = −120]nA и stem:[2 (δI)_b = 50]nA)
 
 [stem#f10]
 .(10)
@@ -349,7 +274,7 @@ v_a = −342 ± 30 "km/sec", (t_(st))_a = 3^h ± 1^h,
 
 v_b = +143 ± 30 "km/sec", (t_(st))_b = 15^h ± 1^h,
 ++++
-and formulae <<f9>> give
+и из формулы <<f9>> следует
 
 [stem#f11]
 .(11)
@@ -358,28 +283,15 @@ v = 362 ± 40 "km/sec",
 
 δ = −24^@ ± 7^@, α = (t_(si))_a = 12.5^h ± 1^h.
 ++++
-where the errors are calculated supposing stem:[φ = 45^@].
+где ошибки рассчитываются, предполагая  stem:[φ = 45^@].
 
-The local sidereal time for the observation of stem:[v_a] (i.e., the
-right ascension of the absolute velocity’s apex)
-was calculated in the following manner: As for any day the sidereal
-time increases by stem:[4^m] (with respect to the solar time),
-the sidereal time at midnight on the 11th February (which follows
-21 days after midnight on the 21 January) was stem:[8^h+1^h 24^m = 9^h 24^m].
-At stem:[3^h] middle European (i.e., Graz) time on the
-11th February the local sidereal time on the 15th meridian
-was stem:[9^h 24^m + 3^h = 12^h 24^m]. On the Graz meridian the local
-sidereal time was stem:[12^h 24^m + 2^m = 12^h 26^m ≃ 12.5^h].
+Местное звездное время для наблюдения stem:[v_a] (т. е. прямое восхождение апекса абсолютной скорости) рассчитывалось следующим образом:
 
-*Important remark.* I now establish that when calculating
-the local sidereal time of observation of stem:[v_a] for my interferometric
-«coupled mirrors» experiment {fn-2}{fn-6}{fn-8}{fn-9}, I made a
-very _unpleasant error_. As Sofia stem:[(λ = 23^@ 210')] lies westwards
-from the middle zonal meridian stem:[(λ = 30^@)], I had to _subtract_
-the difference of stem:[6^@ 390'], which corresponds to stem:[27^m], from the
-local sidereal time of the zonal meridian. Instead of doing
-this, I _wrongly_ added. Thus the numbers given by me are to
-be corrected as follows:
+Так как каждый день звездное время увеличивается на stem:[4^m] (по отношению к солнечному времени), звездное время в полночь 11 февраля (которое следует через 21 день после полуночи 21 января) было stem:[8^h+1^h 24^m = 9^h 24^m].
+В stem:[3^h] по среднеевропейскому времени (т.е. времени Граца), 11 февраля местное звездное время на 15-м меридиане было stem:[9^h 24^m + 3^h = 12^h 24^m].
+На меридиане Граца местное звездное время было stem:[12^h 24^m + 2^m = 12^h 26^m ~~ 12,5^h].
+
+*Важное замечание.* Теперь я понимаю, что при расчете местного звездного времени наблюдения stem:[v_a] для моего интерферометрического эксперимента «связанные зеркала» {fn-2}{fn-6}{fn-8}{fn-9}, я сделал очень _неприятную ошибку_. Так как София stem:[(λ = 23^@ 210')] лежит к западу от среддиного меридиана stem:[(λ = 30^@)], я должен был _вычесть_ разницу stem:[6^@ 390'], что соответствует stem:[27^m], от местного звездного времени среддиного меридиана. Вместо этого я _ошибочно_ прибавил её. Таким образом, приведенные мной цифры следует исправить на следующие:
 
 [.scrollable]
 --
@@ -400,20 +312,11 @@ be corrected as follows:
 |===
 --
 
-I beg the persons who will refer to the measurement of
-the Sun’s absolute velocity determined by me in 1975/76
-to cite _always_ the corrected figures given here and not the
-wrongly calculated figures presented in {fn-2}{fn-6}{fn-8}{fn-9}{fn-10}{fn-11}
-and in some others of my papers.
+Прошу тех, кто будет ссылаться на измерение абсолютной скорости Солнца, определенное мной в 1975/76 г., _всегда_ указывать приведенные здесь исправленные цифры, а не ошибочно рассчитанные цифры, представленные в {fn-2}{fn-6}{fn-8}{fn-9}{fn-10}{fn-11} и в некоторых других моих работах.
 
 == 5. Выводы
 
-Comparing the figures obtained now by the Graz variation of
-my «coupled shutters» experiment with the figures obtained
-some ten years ago in Sofia by the interferometric «coupled
-mirrors» experiment, one sees that within the limits of the
-supposed errors they overlap. Indeed, on the 11 January 1976
-I registered in Sofia the following figures
+Сравнивая цифры, полученные теперь грацким вариантом моего эксперимента «связанные затворы», с цифрами, полученными лет десять тому назад в Софии интерферометрическим экспериментом «связанные зеркала», видно, что в пределах предполагаемых погрешностей они пересекаются. 11 января 1976 г. я зарегистрировал в Софии следующие цифры:
 
 [stem#f12]
 .(12)
@@ -423,38 +326,15 @@ v = 327 ± 20 "km/sec",
 δ = −21^@ ± 4^@," " α = 13^h 17^m ± 20^m.
 ++++
 
-As for the time of one month the figures do not change
-significantly, one can compare directly the figures <<f11>> with
-the figures <<f12>>. The declinations are the same. As the Graz
-measurements were done every two hours, the registration of
-the right ascension was not exact enough and the difference
-of about one hour is not substantial. I wish to point only to
-the difference between the magnitudes which is 35 km/sec. I
-have the intuitive feeling that the figures obtained in Sofia
-are more near to reality. The reason is that _I profoundly
-believe in the mystique of the numbers_, and my Sofia measurements
-led to the magic number 300 km/sec for the Sun’s
-absolute velocity (which number is to be considered together
-with 300,000 km/sec for light velocity and 30 km/sec for the
-Earth’s orbital velocity). The Graz measurement destroys
-this mystic harmony.
+Поскольку за один месяц числа существенно не меняются, можно непосредственно сравнить числа <<f11>> с числами <<f12>>. Склонения одинаковые. Поскольку измерения в Граце проводились каждые два часа, регистрация прямого восхождения была недостаточно точной, а разница около часа несущественна. Я хочу указать только на разницу между величинами, которая составляет 35 км/сек.
+У меня есть интуитивное ощущение, что числа, полученные в Софии, ближе к реальности. Причина в том, что _я глубоко верю в мистику чисел_, и мои софийские измерения привели к магическому числу 300 км/сек для абсолютной скорости Солнца (это число следует рассматривать вместе с 300 000 км/сек для скорости света и 30 км/сек для орбитальной скорости Земли). Грацкое измерение разрушает эту мистическую гармонию.
 
-The presented account on the Graz «coupled shutters»
-experiment shows that the experiment is _childishly simple_, as
-I always asserted{fn-1}{fn-2}. If the scientific community refuses
-to accept my measurements for so many years and nobody
-tries to repeat them, the answer can be found in the following
-words of one of my _best physical and moral teachers_:
+Представленный отчет об эксперименте со «сязанными затворами» в Граце показывает, что эксперимент _по-детски прост_, как я всегда и утверждал{fn-1}{fn-2}. Если научное сообщество столько лет отказывается принимать мои измерения и никто не пытается их повторить, то ответ можно найти в следующих словах одного из моих _лучших учителей физики и морали_:
 
 [quote,Альберт Эйнштейн]
 *Ужасна власть, которую правящие имеют над миром.*
 
-I wish to add in closing that with a letter of the 29 December 1983 I informed the Nobel committee that I am ready
-at any time to bring (for my account) the «coupled shutters»
-experiment to Stockholm and to demonstrate the registration
-of the Earth’s absolute motion. With a letter of 28 January
-1984 Dr. B. Nagel of the Physics Nobel committee informed
-me that my letter had been received.
+В заключение хочу добавить, что письмом от 29 декабря 1983 г. я уведомил Нобелевский комитет о том, что готов в любое время привезти (за свой счет) в Стокгольм эксперимент «сязанные затворы» и продемонстрировать регистрацию абсолютного движения Земли. Письмом от 28 января 1984 г. доктор Б. Нагель из Нобелевского комитета по физике сообщил мне, что мое письмо получено.
 
 [#fig-4,align="center"]
 .Февраль 1984 г. Объяснение сути эксперимента «связанные затворы». Мои пальцы показывают пути, по которым оба световых луча идут от одного перфорированного диска к другому. На фотографии видна лишь небольшая часть лазера, создающего начальный световой луч, который расщепляется видимым на фотографии полупрозрачным зеркалом. Отраженный луч идет влево, а преломленный луч, после отражения от видимого на фотографии зеркала, идет вправо. Между перфорированными дисками эти два луча проходят в противоположных направлениях. Человек, предоставивший мне возможность провести в своей лаборатории мой эксперимент «связанные затворы», взял с меня торжественное обещание никогда не говорить, где я его проводил. На мой вопрос, почему он так боится, ответ был: «Я не хочу, чтобы однажды меня отравили некие спецслужбы».
